@@ -10,10 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Jagadeep </span>
             from <span className="purple"> Hosur, India.</span>
-            <br />I am Completed MSC (Computer Science) in Krishna Arts and Science College.
+            <br />I completed my MSC (Computer Science) at Krishna Arts and Science College.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, there are some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
